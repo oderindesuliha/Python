@@ -80,7 +80,6 @@ numbers = [1, 2, 3]
 concatenate_result = concatenate(characters, numbers)
 print("The result is:" , concatenate_result)
 
-
 def combine_list(characters, numbers):
 	combined_list = []    
 	for char, number in zip(characters, numbers):
