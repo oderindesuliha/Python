@@ -51,7 +51,6 @@ def ispalindrome(string):
 string = input("enter string: ")
 print(string , ispalindrome(string))
 
-
 def for_sum(numbers):
 	sum = 0
 	for count in numbers:
